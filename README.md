@@ -16,7 +16,7 @@ A modern and responsive furniture e-commerce website template that provides user
 
 ## Demo
 
-[Live Demo](#)  
+[Live Demo](https://fsafiya187.github.io/furni-shop/)  
 
 ## Technologies Used
 
